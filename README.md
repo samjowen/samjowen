@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning django, angular.
 - 💞️ I’m looking to collaborate on fun OSINT projects.
 - 📫 How to reach me: samhirael [at] gmail [DOT] com
-- 
