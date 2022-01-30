@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samjowen
 - 👀 I’m interested in security.
-- 🌱 I’m currently learning selenium.
+- 🌱 I’m currently learning django, angular.
 - 💞️ I’m looking to collaborate on fun OSINT projects.
 - 📫 How to reach me: samhirael@gmail.com
 
