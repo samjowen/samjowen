@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samjowen
+- 👋 Hi, I’m @samjowen, Sam Owen or Samuel Owen
 - 👀 I’m interested in cybersecurity.
 - 🌱 I’m currently learning django, angular.
 - 💞️ I’m looking to collaborate on fun OSINT projects.
