@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samjowen, Sam Owen or Samuel Owen
 - 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning django, angular.
+- 🌱 I’m currently learning django, angular, react.
 - 💞️ I’m looking to collaborate on fun OSINT projects.
 - 📫 How to reach me: samhirael [at] gmail [DOT] com or sam.owen [at] bangor [DOT] ac [DOT] uk
