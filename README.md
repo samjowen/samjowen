@@ -2,4 +2,4 @@
 - 👀 I’m interested in cybersecurity.
 - 🌱 I’m currently learning django, angular, react.
 - 💞️ I’m looking to collaborate on fun OSINT projects.
-- 📫 How to reach me: samhirael [at] gmail [DOT] com or sam.owen [at] bangor [DOT] ac [DOT] uk
+- 📫 How to reach me: samhirael [at] gmail [D0T] com
