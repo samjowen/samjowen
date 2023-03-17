@@ -1,16 +1,18 @@
-👋 Hey there, I'm Sam Owen (a.k.a. @samjowen or Samuel Owen)!
+👋 Hi there! I'm Sam Owen, also known as @samjowen or Samuel Owen.
 
-🔒 I'm passionate about cybersecurity, and my day job revolves around web development with a focus on React.
+🔧 I'm a software engineer from North Wales. My passion for cybersecurity has led me to enjoy completing CTF challenges in my spare time.
 
-🚀 In addition, I'm currently learning Rust to expand my programming expertise.
+🌐 My day job focuses on web development, creating applications using React.
 
-🎲 A game theory enthusiast, I enjoy studying imperfect information games and exploring the strategic aspects they present.
+🚀 I'm currently expanding my programming skills by learning Rust. Check out my repos!
 
-🕵️‍♂️ I'm eager to collaborate on intriguing OSINT projects that can make a positive impact.
+♟️ As a game theory enthusiast, I love studying imperfect information games and delving into the strategic intricacies they offer.
 
-😺 Fun fact: I'm a cat lover, which means I'm always ready for a furry friend's company to make coding sessions more enjoyable!
+🌍 I'm keen on collaborating on innovative OSINT projects that can have a positive impact on society.
 
-💌 If you'd like to get in touch or discuss potential collaborations, feel free to reach out at samhirael [at] gmail [D0T] com. Let's create something amazing together!
+😺 Fun fact: I'm a cat lover! Having a furry friend around always makes my coding sessions more enjoyable.
+
+🤝 Let's connect! If you'd like to get in touch or discuss potential collaborations, please feel free to email me at samhirael [at] gmail [D0T] com. Let's create something amazing together!
 
 ```
     |\__/,|   (`\
